@@ -1,0 +1,29 @@
+{
+  "name": "limonovp-mode",
+  "version": "1.0.0",
+  "description": "limonovp-mode is a Node.js module that provides a set of utility functions for interacting with the Stellar blockchain. This module includes functions for retrieving account information and sending payments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/limonovp014/limonovp-mode"
+  },
+  "dependencies": {
+	  "kennethallen-cloud": "1.0.0",
+"trumposwere": "1.0.0",
+"tobogunbar": "1.0.0",
+"edwardevans-io": "1.0.0",
+"kennethallen": "1.0.0",
+"marikovmailbory-sdk": "1.0.0",
+"JohnYoung": "1.0.0",
+    "stellar-sdk": "^8.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limonovp014/limonovp-mode/issues"
+  },
+  "homepage": "https://github.com/limonovp014/limonovp-mode#readme"
+}
